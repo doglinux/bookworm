@@ -1,0 +1,29 @@
+Origin: Debian
+Label: DebianDog
+Suite: testing
+Version: 1.0
+Codename: bookworm
+Architectures: i386
+Components: main
+Description: DebianDog repository
+Date: Mon, 15 Nov 2021 09:42:29 +0000
+MD5Sum:
+ d5485ee95e3ded489928a6777a9689e0           378879 Packages
+ 312dd438acb18cce9820a6905ba517c3           131607 Packages.gz
+ c94da48606fda7dcdf469e56a3dbca85              188 Release
+ 312dd438acb18cce9820a6905ba517c3           131607 Translation-en.gz
+SHA1:
+ fa431ca68d35f9467b1048ddaca6291715ab8880           378879 Packages
+ 84a086f534c9eb0a5bba2770d6da2995f404e5cd           131607 Packages.gz
+ 8682c88e4bb6d69260b394cffcb7d164db8c4255              188 Release
+ 84a086f534c9eb0a5bba2770d6da2995f404e5cd           131607 Translation-en.gz
+SHA256:
+ 5ff6c183128825be936626ecbed67d523d5d72701fe146fdfc7b46beb0c04423           378879 Packages
+ 7b5f9cdb41a2aa1e5169704475b528ce310bd2481e7bb4a475b148ea343a0cea           131607 Packages.gz
+ 97a0e030a2a8fe20e118b7a30ca1bc10d07feb5a6196df0d9f27176b9169b48d              188 Release
+ 7b5f9cdb41a2aa1e5169704475b528ce310bd2481e7bb4a475b148ea343a0cea           131607 Translation-en.gz
+SHA512:
+ 0818a45beb51eb6ac07cf1d4f0a4cba3bb6c0309c4d5c8133133ec212aacdf7694d846c71faea93d7e1af08bd37c2a42d4bd05e4df14a06b1ec38f585f4928e7           378879 Packages
+ 2e49e3ca06947748fc5ca35c6ea17a25d15230f4cd34d3cce96fc400f2057733fc8b38f7abd8f0099ee91eafb14f640ae75814da096343bf19cc6b06c73c81ee           131607 Packages.gz
+ ce1e818de4958908c9056ec70070c0e255ea7ef3150353a742bfba90c2f6090d94c37aec8dbf98bb62f5a2599c8240603e098348135a241d0acabf94459ad92a              188 Release
+ 2e49e3ca06947748fc5ca35c6ea17a25d15230f4cd34d3cce96fc400f2057733fc8b38f7abd8f0099ee91eafb14f640ae75814da096343bf19cc6b06c73c81ee           131607 Translation-en.gz

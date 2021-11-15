@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Debian
+Label: DebianDog
+Suite: testing
+Version: 1.0
+Codename: bookworm
+Architectures: amd64
+Components: main
+Description: DebianDog repository
+Date: Mon, 15 Nov 2021 09:43:10 +0000
+MD5Sum:
+ 8f96cffdab6f9e20dc4a934cb7374e1d           344824 Packages
+ 13f2b19018d3787a7cf623debada651e           118544 Packages.gz
+ 825046d8ceb854a913ed36040d2e28bc              189 Release
+ 13f2b19018d3787a7cf623debada651e           118544 Translation-en.gz
+SHA1:
+ 33337132852adc5ee3d8f98ce816aa7fde48dfb7           344824 Packages
+ 4bcf58d0c15dfd23b8626cd86fa62e80a611f816           118544 Packages.gz
+ 691bf61a4ef6c664736695dcc7dad9be0717a46e              189 Release
+ 4bcf58d0c15dfd23b8626cd86fa62e80a611f816           118544 Translation-en.gz
+SHA256:
+ a4944c555c9605ed15d5e619a71e6d011677724ae63ebe62abe7910dcd484993           344824 Packages
+ c25c778f79f8515b32c6359252cbb5d670c6b63a328d90def61254d74259de19           118544 Packages.gz
+ e21edda615c99e8ec4b0cd9fd0f57d2d057531f05923b42de5b91708d3887a64              189 Release
+ c25c778f79f8515b32c6359252cbb5d670c6b63a328d90def61254d74259de19           118544 Translation-en.gz
+SHA512:
+ 06b721bc4ab313eb293ba3a4815eda61da11d893f4c39a8d56b42e84157cdaa3f790ee00d08bfc9b4be1f861593e686584953d51b18a1c981a790a2cc5163cf2           344824 Packages
+ 17635648d81b35b589d9d62b73833b322a6d1a34097668a7ab06a9c415ee2dc8d32d31ec750a1bd13623a8ae30f91035c790e8d89a33344cc6d1d4a43ae8a455           118544 Packages.gz
+ 6c3f714d10731621569c301856e2d482e0c09e5f86cf6232c6a5b1fe3b52a94c53a6f76679b6aa368fc70a6ce949248f4655c903e35a7cb7f9ea00f0cd530f25              189 Release
+ 17635648d81b35b589d9d62b73833b322a6d1a34097668a7ab06a9c415ee2dc8d32d31ec750a1bd13623a8ae30f91035c790e8d89a33344cc6d1d4a43ae8a455           118544 Translation-en.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEEzvZDupk2V//eP5nrYe8en1zCB0FAmGSK64ACgkQrYe8en1z
+CB2ANgf/ZZlD7HN4kDFeJ12wk82b0UFH4+jHa6y7z7X1gy7scI00b3ntHhRsEKnH
+/3vg4WV7tkGOOKgh/WYetV0ipPvtcQ7XNy3Z8yB13SDGV1cdgrMyAuJn+TaJZp/5
+bfiYUaEdpSdiEOBFMjvm0jAG+HAslD99/3pF6/jKxpkNPeTzhMemnvr4n/F/+0QW
+cnDw5Y/YPWFGvxTNI9FysYowN5OTHfKin/oIEcBL/XSqA64vpmhCA7Hmh9fUMMSN
+2uASRBBrlmsGZTnmRpbgupmAFAeWdA/6Qe0KBl/CGmDz3oT5AE+7W7l7dPWuUzJU
+LFx5sg4BJG2nKTceh8gyYBxKyiwh7g==
+=q1xY
+-----END PGP SIGNATURE-----
