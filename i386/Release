@@ -6,24 +6,24 @@ Codename: bookworm
 Architectures: i386
 Components: main
 Description: DebianDog repository
-Date: Thu, 18 Nov 2021 15:47:29 +0000
+Date: Fri, 21 Jan 2022 09:06:27 +0000
 MD5Sum:
- 21e5b80b71844dbee7546f60eae4f683           381044 Packages
- f376b2ba1239a9706cd72b67ae1a92ec           132373 Packages.gz
- e8ce889941a46fb0af58f3bd956425f6              188 Release
- f376b2ba1239a9706cd72b67ae1a92ec           132373 Translation-en.gz
+ 42578da23e036dd0623966f7702608f6           382206 Packages
+ 3ce5342772df7df33c17ba4c1394bc3e           132583 Packages.gz
+ 52984faefa9917ec856ecccd8e8e3aef              188 Release
+ 3ce5342772df7df33c17ba4c1394bc3e           132583 Translation-en.gz
 SHA1:
- 3341668d7c5b6683d4b16491931ae0f1ece18f15           381044 Packages
- 9dc284daa7c9bd5e22f3ffc21c7d243f7287d743           132373 Packages.gz
- d688a4f31f12b6ff718f41d30d55ac429514dd77              188 Release
- 9dc284daa7c9bd5e22f3ffc21c7d243f7287d743           132373 Translation-en.gz
+ e92d76854d1cecd0e88fcebd95e69711f7cab3a2           382206 Packages
+ fb1a0eb367a1d465c92b28e02f0f484be2d824bd           132583 Packages.gz
+ 0a49c135499a0eec7ac2ce79563f1c23dd24057f              188 Release
+ fb1a0eb367a1d465c92b28e02f0f484be2d824bd           132583 Translation-en.gz
 SHA256:
- f2874fb0df16f9162292715ecfbfbf11eca1ec4412ace0f39adf05e6b64a2a43           381044 Packages
- 218e1fb6ccad84d4169b1197175ff3f7f1d687b39be19b5606e9761171b43b74           132373 Packages.gz
- b4caeafb7e8c5e82c44370793798bcf8cab9572d80d81e98651b94ab50b38d0a              188 Release
- 218e1fb6ccad84d4169b1197175ff3f7f1d687b39be19b5606e9761171b43b74           132373 Translation-en.gz
+ 0f4aa031097499fe1c003d4bc97ef0ed65b584bceca424d89724aaae0d3c8abc           382206 Packages
+ a6bd2c9dbef8dac747a209da82c124cf7046968d580c5bc8010d17afd7388049           132583 Packages.gz
+ 734d3ffec4aeb3a8a2b6d872cc1cb24a836eee685bfce2daed23e749cca8d19c              188 Release
+ a6bd2c9dbef8dac747a209da82c124cf7046968d580c5bc8010d17afd7388049           132583 Translation-en.gz
 SHA512:
- 749121c5fa2aed8c9797a12926d95eac7e92877fc03d52a19da07ee3d77dcebf1ab81ba176d5404e9eb92e6d92b5c4632ac6ada825010205807df27d82953adf           381044 Packages
- 5eb7c517b9322272252632e5d4fee94c7894c4d96724f6b8a058d1c7c49fcd9207d0b857cb6c6e692c3929d32098d34d5212564f8a6cff9e18c7d7c61e8a2dd9           132373 Packages.gz
- 5f23a30eab59e255ff86a887bae0779f32ac17fe298d93fdf016818d3f297d78e2c6e9010f3f037a3ddfbb7706840ff6a01fdac52d4997149efb0f0131079598              188 Release
- 5eb7c517b9322272252632e5d4fee94c7894c4d96724f6b8a058d1c7c49fcd9207d0b857cb6c6e692c3929d32098d34d5212564f8a6cff9e18c7d7c61e8a2dd9           132373 Translation-en.gz
+ 70b6a6e365484e9a5a165619f5ee88aafc77c746a4e05219699765a4a65a5297e97d5115bae89c5ec17bab71d671a360136b56363755afa7a9e07b63438595bb           382206 Packages
+ 3a9e26bdedc8fb8240ec36359fdee3dcd66d372d5e8cf047dae720e87eee15782a7c4c8d03b2dbf4e624875af316d0ceb5fbbdc9dcdf9838a54df953081fedd2           132583 Packages.gz
+ a75441b348144ed114febcb863c2f58d08b37a00f7e41a97d921f132c0aeb4925fab7a7db1f937459eff779f1072a2c4443b4c612e072e0d31ce53d03948cd06              188 Release
+ 3a9e26bdedc8fb8240ec36359fdee3dcd66d372d5e8cf047dae720e87eee15782a7c4c8d03b2dbf4e624875af316d0ceb5fbbdc9dcdf9838a54df953081fedd2           132583 Translation-en.gz
