@@ -9,35 +9,35 @@ Codename: bookworm
 Architectures: amd64
 Components: main
 Description: DebianDog repository
-Date: Mon, 20 Feb 2023 16:47:10 +0000
+Date: Thu, 23 Feb 2023 18:23:36 +0000
 MD5Sum:
- 834ef174a4a323d1f47155759ae6d144           398656 Packages
- 60f86082e96c85236da508a0b18b4da3           134707 Packages.gz
- 8bb9223944caee87cd76c48700d58fca              189 Release
- 60f86082e96c85236da508a0b18b4da3           134707 Translation-en.gz
+ 3ce45c87014e9142eaebe3ccbf118ae0           399495 Packages
+ 63a64d8b9ea89e2228be99e5260acf64           134988 Packages.gz
+ 656d25abd0d7d6114449c98f0a3f6019              189 Release
+ 63a64d8b9ea89e2228be99e5260acf64           134988 Translation-en.gz
 SHA1:
- 6966421176b95f4fdc03c8202512150d11e1ea0f           398656 Packages
- 553094df333ccb9249d8f570bd22004b79962a77           134707 Packages.gz
- 90480aac637c796f4d354728c8258f63a7713ae4              189 Release
- 553094df333ccb9249d8f570bd22004b79962a77           134707 Translation-en.gz
+ 708fdb000ce93a4d68b3a00e02a4fbd4e704c751           399495 Packages
+ 1d33e70d93ef1ee800ed23a04f5dd50816f54aff           134988 Packages.gz
+ 50bedcf8db9c4c229a0f0459e0f82ab3a645b529              189 Release
+ 1d33e70d93ef1ee800ed23a04f5dd50816f54aff           134988 Translation-en.gz
 SHA256:
- 4c20b80ddb502a0fc190b674418756a4ea1df1c0aed7c6642c8c7a95c5dd13d6           398656 Packages
- cc67c096c6b0509bbde1ce77fafccf6d3d1f70acfa354089631796b68803511d           134707 Packages.gz
- 06382fea1929cd77fabd9b1d3e16c0127d9ece8cd12705f345d67618ad22c8de              189 Release
- cc67c096c6b0509bbde1ce77fafccf6d3d1f70acfa354089631796b68803511d           134707 Translation-en.gz
+ e1ec4237802735a563dc12baf944d08d1348ffbbcf523b97337c330aff960afe           399495 Packages
+ dc282f7c5823cbbe9da65817368a3b41f75e39688e6052e8eba059197068c0a1           134988 Packages.gz
+ bf47283d6ac990777049d4b49b3882504033c6a2b7477ade7a915ec9f429dd65              189 Release
+ dc282f7c5823cbbe9da65817368a3b41f75e39688e6052e8eba059197068c0a1           134988 Translation-en.gz
 SHA512:
- fd99dfc5bb2fc4334a3fc760c9852f1f9ab1fae33c3388c1ba7ab19a0bdf6dd4dec3a5361cf799414fd97b86a190f603991469eef49282cc7d20568bdbcbebad           398656 Packages
- 2675ed26b82dc58e4f7c0c85c33f2299c3bdbd1e913f8caa1500cbaaec1077ba491228c45553559f9197431896fbc22c091848160e189b231863e57b39f1319a           134707 Packages.gz
- 9305389b5db10e773e1bd246a7820aea01c83d7d9622a961ace51b9a3f9e7ac79e4076619e63a3fe8d6a9a42ad47cdf8ec9c740b6e01de67276d50dd8a32bdb0              189 Release
- 2675ed26b82dc58e4f7c0c85c33f2299c3bdbd1e913f8caa1500cbaaec1077ba491228c45553559f9197431896fbc22c091848160e189b231863e57b39f1319a           134707 Translation-en.gz
+ 5a030705812adac729029f372dc366c00d8339095bd29e31c8a0ca9243846c2acd1a8178f485e477b7a0d8788bb4dab89097a07a43203b8353d2185a74543787           399495 Packages
+ 92975cf3b03afb65e626f56a3d6a672c280b3657117be7b6687d619d2d8a3cbb1c464b87df40dd4d7e952fd317aeb10caa4823445a9fa754744a5c57031136dd           134988 Packages.gz
+ c9b64eec9920c712aed25c64914a8db39145b076ba309352263a2ce79939249a794d75133c38652f65cca9995d2819e0a4bd1f1d87f9c0a6464b22085e6e6c2d              189 Release
+ 92975cf3b03afb65e626f56a3d6a672c280b3657117be7b6687d619d2d8a3cbb1c464b87df40dd4d7e952fd317aeb10caa4823445a9fa754744a5c57031136dd           134988 Translation-en.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEEzvZDupk2V//eP5nrYe8en1zCB0FAmPzpA4ACgkQrYe8en1z
-CB0iBggApVwoKE9rzr+u67DvX+tRdp+oZCaJ8jl3Y+J0jM6CbpaLIbjUeqxEDM47
-v46F3izuygFgytaOw6VUhY/54GNBZOVhu5yWY8C+Neg3UHgqEPhppVbUPnRDHpqd
-jB1dCC2ElP5sM9SiGx98EHpYjhwsf4xfngsnSJcyLNCBZhBzpi4Y5f1L03/ZXwfv
-6h5H2IH7ikRsEj+c6H3fCFr7jcU0/9x7YnUah960ksyyjdI0yvEbIzIm2S+Vi1TN
-Rn52WiTJtAOlfiIfylH+BKCgqDq3mb6qmgW+G/gid9rVh5b1N+hVNiH0+6/XdfF2
-POAHGLen6F7ZQIVqIr6ko9Tsk/ae9w==
-=727v
+iQEzBAEBCAAdFiEEEzvZDupk2V//eP5nrYe8en1zCB0FAmP3rygACgkQrYe8en1z
+CB1ISwf/bCqfvmBeuMCZh9PsLD54Q6E0Qr4d29G+Uz8RCIubKhh4ci5FudA3/pa8
+GV0byDEAEvv1jA+iBZFPp6hwF1UUKAlcvyGE+r7Cb4N/TtOdDRfWI1WNCpzoHflX
+phYI7bWRBD5HYzISo49sImA0tqzedEyBkcn4E0+y0V80Pfiicdi/sVw/SUTI6DKh
+CjCYz7iPaeFmyx02/E+rYW+fTAsYljqSqxP1luF/XAjA1IdzJHguTL4m6gWnqun/
+VZEdG4Cc6BfVWqxL/HA9hczEWuZD2gE1hxGK8z57NRJBVRvXQSvVK8xTxkjTXkPm
+eRX+iv8U3JTx7bvdZwRcV7iPLuvReQ==
+=E2Hz
 -----END PGP SIGNATURE-----
