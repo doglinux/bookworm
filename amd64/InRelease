@@ -9,35 +9,35 @@ Codename: bookworm
 Architectures: amd64
 Components: main
 Description: DebianDog repository
-Date: Wed, 27 Sep 2023 16:08:38 +0000
+Date: Fri, 29 Sep 2023 15:27:18 +0000
 MD5Sum:
- c62650dde0f18649daacf6d2c239c7a3           433212 Packages
- fd9f38b8669d4d1d8c92eec7c7e7d695           144144 Packages.gz
- 6ff340e15038aa149249678b8650b740              189 Release
- fd9f38b8669d4d1d8c92eec7c7e7d695           144144 Translation-en.gz
+ a0222bad05c5b68ee07f4ccc75a3183e           431690 Packages
+ 6a61cefd8ad30a92b12f2b7026b42a16           143637 Packages.gz
+ d516107e9d353b853de9ded785de5883              189 Release
+ 6a61cefd8ad30a92b12f2b7026b42a16           143637 Translation-en.gz
 SHA1:
- 4bf397a22bf9783be337fc763d9fd9dc67781088           433212 Packages
- f5e1c229d132e0d1347aabaeabddef6ec799faf4           144144 Packages.gz
- 92cf892553621395b8a165a551717da2230b41f4              189 Release
- f5e1c229d132e0d1347aabaeabddef6ec799faf4           144144 Translation-en.gz
+ af98b59b8d9a60491649d02968be0f839eb35b59           431690 Packages
+ 186f7d37f1b8f65961c310fd186806ff3b2c2140           143637 Packages.gz
+ 5b1a56f7bf60c351472367dbfb95f685c75f2dbf              189 Release
+ 186f7d37f1b8f65961c310fd186806ff3b2c2140           143637 Translation-en.gz
 SHA256:
- 597582fbc145a185009717d4900c189eb0766750c76e33a005ba247e81421d00           433212 Packages
- fa529120a96c5d6bcac91da7fae2d130ce60102920457a40c7b1670932275a45           144144 Packages.gz
- ab0fb17d18e66c628c9bae51b4731bad3a7b78f0a56894c16bdcd404d7b7df3c              189 Release
- fa529120a96c5d6bcac91da7fae2d130ce60102920457a40c7b1670932275a45           144144 Translation-en.gz
+ 0755e1f106d0b122da606a9749fd1f0b4fe13a404526d01d482ea97100dc73c7           431690 Packages
+ 55d5b1c1ae8efdd88443403551951e8740f2b71e35f10c8a10541ec04e48a70b           143637 Packages.gz
+ 344606c635edb622d958c4455cdaa44d8b5f3615d7dd0d2892bf54c627bb09af              189 Release
+ 55d5b1c1ae8efdd88443403551951e8740f2b71e35f10c8a10541ec04e48a70b           143637 Translation-en.gz
 SHA512:
- 50bf219a60fb7753b06f65465ab3fd8bc9c33f40b0ad79251996bc1419a3b58ffbd8bc1aa083aac2a31f61b2c712183084bdff2e87ba028b8ddee255d9774015           433212 Packages
- 7836cce2b097aceaa343eb64da0b94fd43ca4dccb13bedba013736629704b3a55edc92c5fe6d594ef39306b3ddca3285843f089e0961bb00d2846e3025727f1e           144144 Packages.gz
- d2c9a16003d235ab5eabc5d226360044f975b8a5587d8abe00d0a0c745707a6a3063882c95c1eae1954e60e14a9698492e222f10536b5294357cfb38b4c13143              189 Release
- 7836cce2b097aceaa343eb64da0b94fd43ca4dccb13bedba013736629704b3a55edc92c5fe6d594ef39306b3ddca3285843f089e0961bb00d2846e3025727f1e           144144 Translation-en.gz
+ 4fe6a9b2c7bed63125f7d782711a11039da3c9cfa4cd2b720283838671a79920db219ffc4f8eed8e444262b38153989d9ee40d6f6aaac0edc464bbec9a026fa1           431690 Packages
+ 516f7f4f4b6e73b2abf1062d08b06e3d4b6b509dd3c05f75e5879747660d875e2e9ab8abde1faa3584cba8f4aee5d158c4645eeba576905edf102eae04f565dd           143637 Packages.gz
+ eb7701cf3fd8425bfe4c263ab976f4787bf6c346de4cc8d6486a91a54b84cd096b5f426e940f5534f6650dd2e1a919f808e2aea30899cc6c73b5dca0fbc21a8a              189 Release
+ 516f7f4f4b6e73b2abf1062d08b06e3d4b6b509dd3c05f75e5879747660d875e2e9ab8abde1faa3584cba8f4aee5d158c4645eeba576905edf102eae04f565dd           143637 Translation-en.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEEzvZDupk2V//eP5nrYe8en1zCB0FAmUUU4YACgkQrYe8en1z
-CB34Ggf/dXoOzft7t7g4RP8pSuzKAe/eYMHnrCUby0mNYN/tS13km5WdNfYkncXm
-V4MojQJvPgUp7jFoCF1b35/gqUpVw9fnEuCWrxOyJaEnfrb6q78JBCvJFAXMyBK9
-7sxc4byL5ky9r0/y0kFx5Ec8o/vIQCu7ofBfAjeF4j47/q6hTQgn/fvdEZiqp0oT
-cs/gOCFuBasHne9mp0t9Kh19sAKpPXQQka+iFbcMk6qsPXX7Eo21+80ZoA03BsKw
-7LccfVkz0SiisHn8J03dai4u4cM9lU0orIukc8F4Qsb/0RNfI/1qo3VwsCBGyOXY
-vsSOYAgkhQKeNfdXyDx49eeSnfmCHw==
-=rV9V
+iQEzBAEBCAAdFiEEEzvZDupk2V//eP5nrYe8en1zCB0FAmUW7NYACgkQrYe8en1z
+CB0YSwf/VQtq7MD4WBV1XaRHWcxZkRLKWXl08G41q2yQayRIesHayR98QeYgsHO3
+tQ6eF/xjC8L+9bevEi+unXZu+boPrWi5soanU+0ZNrrnwlXv2Shj/LZCADMVjG+i
+HMZ6GLVpOGJk71AAnEtkNnpfxuMbxebEMZZsHLSqv9b7SkUpFNzScReOziF4AYGX
+o+5uSGccFosLOBE+knJHo/DPIChTq6eA06qCcqoY4YoSRbCNJ//fEo/6SKktuC4w
+fchc9TgNcUbmaHWxNs7glMc1pp43MfM5mG0DNE97cDfNvZzXN5VokWpTvFvN6JHZ
+dW8d7FZqQv1JYs4+/Uac/+T7VHRSGg==
+=Cub2
 -----END PGP SIGNATURE-----
