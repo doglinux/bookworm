@@ -4210,6 +4210,30 @@ Description: Independent JPEG Group's JPEG runtime library
  .
  This package contains the shared library.
 
+Package: libldap-2.4-2
+Architecture: i386
+Version: 2.4.57+dfsg-3+deb11u1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: openldap
+Maintainer: Debian OpenLDAP Maintainers <pkg-openldap-devel@lists.alioth.debian.org>
+Installed-Size: 577
+Depends: libc6 (>= 2.28), libgnutls30 (>= 3.7.0), libsasl2-2 (>= 2.1.27+dfsg)
+Recommends: libldap-common
+Conflicts: ldap-utils (<= 2.1.23-1)
+Replaces: libldap-2.3-0, libldap2
+Filename: ./libldap-2.4-2_2.4.57+dfsg-3+deb11u1_i386.deb
+Size: 244268
+MD5sum: 66a3d86ef4ad6ef2d2fb7471e709d28e
+SHA1: d99e1e2a76b26010ecc2b3be99eb199c89cd4161
+SHA256: 57fb9c537059cfcde023e6b3ad1c4dd7ed7d7f54a0aba2c4f3d1390b90c944ab
+SHA512: e579ac8d9d3e964f989fac519ce7902603842aeb9bd829474f69702e23515e59dc8cfa4114587b58db3750456efaeb46038d5e394b8b0f61a247e1e7465cebc4
+Homepage: https://www.openldap.org/
+Description: OpenLDAP libraries
+ These are the run-time libraries for the OpenLDAP (Lightweight Directory
+ Access Protocol) servers and clients.
+
 Package: libmac2
 Architecture: i386
 Version: 4.11-u4-b5-s7-dmo3
