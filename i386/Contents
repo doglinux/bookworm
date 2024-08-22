@@ -2740,6 +2740,7 @@ usr/local/bin/av-conv					    ffmpeg
 usr/local/bin/av-converter				    av-converter
 usr/local/bin/av-editor					    av-editor
 usr/local/bin/avconv					    ffmpeg
+usr/local/bin/avsplitter				    avsplitter
 usr/local/bin/batterup					    batterup
 usr/local/bin/batterup_restart				    batterup
 usr/local/bin/batterup_tray				    batterup
@@ -2931,6 +2932,7 @@ usr/local/bin/rshift-gui-lite				    redshift-gui-lite
 usr/local/bin/run-as-spot				    run-as-user
 usr/local/bin/run-as-user				    run-as-user
 usr/local/bin/samba-server-control			    samba-server-control
+usr/local/bin/scdripper					    simplecdripper
 usr/local/bin/scrox					    scrox
 usr/local/bin/setbackdrop				    jwm-setup,jwmconf
 usr/local/bin/sfs-get					    sfs-get-smokey-get
@@ -5406,6 +5408,15 @@ usr/local/r-shift/usr/lib/libxcb-randr.so.0		    redshift-gui-lite
 usr/local/r-shift/usr/lib/libxcb-randr.so.0.1.0		    redshift-gui-lite
 usr/local/r-shift/usr/share/pixmaps/rshift.png		    redshift-gui-lite
 usr/local/rau/vlc.desktop				    run-as-user
+usr/local/scdrip/bin/apetag				    simplecdripper
+usr/local/scdrip/bin/cdda2wav				    simplecdripper
+usr/local/scdrip/lib/libfdk-aac.so.2			    simplecdripper
+usr/local/scdrip/lib/libfdk-aac.so.2.0.1		    simplecdripper
+usr/local/scdrip/lib/libid3-3.8.so.3			    simplecdripper
+usr/local/scdrip/lib/libid3-3.8.so.3.0.0		    simplecdripper
+usr/local/scdrip/lib/libmac.so.2			    simplecdripper
+usr/local/scdrip/lib/libmac.so.2.0.0			    simplecdripper
+usr/local/scdrip/scdrip					    simplecdripper
 usr/local/share/btop/README.md				    btop
 usr/local/share/btop/themes/adapta.theme		    btop
 usr/local/share/btop/themes/dracula.theme		    btop
@@ -6381,6 +6392,7 @@ usr/share/applications/audio-converter.desktop		    audio-converter
 usr/share/applications/av-clipper-joiner.desktop	    av-clipper-joiner
 usr/share/applications/av-converter.desktop		    av-converter
 usr/share/applications/av-editor.desktop		    av-editor
+usr/share/applications/avsplitter.desktop		    avsplitter
 usr/share/applications/azpainter.desktop		    azpainter
 usr/share/applications/bacongui.desktop			    bacon
 usr/share/applications/batterup_restart.desktop		    batterup
@@ -6501,6 +6513,7 @@ usr/share/applications/samba-login.desktop		    yassm-smbclient-mpscan
 usr/share/applications/samba-search.desktop		    yassm-smbclient-mpscan
 usr/share/applications/samba-select.desktop		    yassm-smbclient-mpscan
 usr/share/applications/samba-server-control.desktop	    samba-server-control
+usr/share/applications/scdripper.desktop		    simplecdripper
 usr/share/applications/screener.desktop			    screener
 usr/share/applications/sfs-get.desktop			    sfs-get-smokey-get
 usr/share/applications/sfsportable.desktop		    portablesfs-loadsfs-fuse
@@ -10788,6 +10801,7 @@ usr/share/pixmaps/audio-converter.png			    audio-converter
 usr/share/pixmaps/av-clipper-joiner.png			    av-clipper-joiner
 usr/share/pixmaps/av-converter.png			    av-converter
 usr/share/pixmaps/av-editor.png				    av-editor
+usr/share/pixmaps/avsplitter.png			    avsplitter
 usr/share/pixmaps/azpainter.png				    azpainter
 usr/share/pixmaps/backup-restore.png			    SaveFolderBackup
 usr/share/pixmaps/batterup.png				    batterup
@@ -11125,6 +11139,7 @@ usr/share/pixmaps/rox.png				    jwmconf
 usr/share/pixmaps/roxterm.xpm				    roxterm-common
 usr/share/pixmaps/rshift.png				    redshift-gui-lite
 usr/share/pixmaps/samba-server-control.png		    samba-server-control
+usr/share/pixmaps/scdrip.png				    simplecdripper
 usr/share/pixmaps/sd.png				    mount-wizard
 usr/share/pixmaps/sd2.png				    mount-wizard-2
 usr/share/pixmaps/sfs.png				    edit-sfs-pcmanfm-qt,edit-sfs-thunar,edit-sfs-pcmanfm
