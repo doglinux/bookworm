@@ -1283,6 +1283,32 @@ Description: POSIX-compliant shell
  dependencies (making it more robust against software or hardware
  failures), it is used as the default system shell on Debian systems.
 
+Package: dash
+Architecture: amd64
+Version: 1:0.5.12-2
+Multi-Arch: foreign
+Priority: required
+Essential: yes
+Section: shells
+Maintainer: Andrej Shadura <andrewsh@debian.org>
+Installed-Size: 214
+Pre-Depends: libc6 (>= 2.33)
+Depends: debianutils (>= 5.6-0.1), dpkg (>= 1.19.1)
+Filename: ./dash_0.5.12-2_amd64.deb
+Size: 116064
+MD5sum: 64d7dcabc1a1ba68845d62550d0c1017
+SHA1: b14168f0a912979df5fac933af592eaf81a6b36c
+SHA256: 12b3073a7633736d4681b73734e9d04957e2c4ab618b8f6a7eecf0e718265ba5
+SHA512: bd1ceb7410ad2b70d56b5f244d56659adf8ecdc807b3704292fc167057c1931c1d7c3374e4d08424f418ee123d5a06f7e0e080eb1c888b95fc54b6a1ccb0d802
+Homepage: http://gondor.apana.org.au/~herbert/dash/
+Description: POSIX-compliant shell
+ The Debian Almquist Shell (dash) is a POSIX-compliant shell derived
+ from ash.
+ .
+ Since it executes scripts faster than bash, and has fewer library
+ dependencies (making it more robust against software or hardware
+ failures), it is used as the default system shell on Debian systems.
+
 Package: deadbeef-static
 Architecture: amd64
 Version: 0.7.2-2
